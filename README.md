@@ -27,7 +27,7 @@ This is a basic neural framework to train a Deep Neural Network with an arbitrar
 
 - Clone the repository containing the framework code.
   ```
-  git clone git@github.com:aninda-ghosh/neural-framework.git
+  git clone git@github.com:aninda-ghosh/neural_framework.git
   ```
 
 - Create a Conda environment
